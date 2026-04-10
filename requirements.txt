@@ -1,0 +1,7 @@
+datasets
+nltk
+scikit-learn
+seqeval
+numpy
+torch
+torchcrf

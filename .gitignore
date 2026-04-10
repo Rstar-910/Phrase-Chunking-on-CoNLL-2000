@@ -1,0 +1,34 @@
+# Python-generated files
+__pycache__/
+*.py[oc]
+build/
+dist/
+wheels/
+*.egg-info
+
+# Virtual environments
+.venv
+.python-version
+
+# ML Project Specifics
+Models/
+Dataset/
+conll2000_local/
+glove/
+senna/
+train_logs/
+Results/
+
+# Weights and serialized models
+*.pt
+*.joblib
+*.pth
+
+# Local logs and results
+results_*.txt
+train_log_*.txt
+
+# IDE / OS
+.vscode/
+.idea/
+.DS_Store
